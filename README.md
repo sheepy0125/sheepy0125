@@ -3,16 +3,22 @@
 
 ### Languages I'm good at
  - Python (best at)
- - HTML (proficient at)
- - JavaScript (okay at)
+ - HTML (proficient at (well... it's html))
+ - JavaScript (proficient at)
 
 ### Python modules I'm good at
  - Discord.py
  - Pygame
  - Flask
 
-### Stuff I've made
- - [Minecraft Gear Form Website](https://github.com/sheepy0125/MinecraftGearFormSite): I ran a shop on my Minecraft server that lets people order tools and armor and I would make it for them. This is the website for ordering.
+### Javascript libraries I'm good at
+ - React.js (learning)
+ - JQuery
+ - SocketIO
+
+### Stuff I've made (and am proud of)
+ - [Minecraft Gear Form Website](https://github.com/sheepy0125/MinecraftGearFormSite): I ran a shop on my Minecraft server that lets people order tools and armor and I would make it for them. This is the website for ordering. If I had a chance though, I'd rewrite this from the ground up.
+ - [Minecraft Server Website](https://github.com/sheepy0125/MinecraftServerWebsite): This is the new website and Discord bot for my Minecraft server
  - [Multiplayer Hangman](https://github.com/sheepy0125/Hangman-Flask-SocketIO): You can play Hangman with other people online.
 
 ### ![Github Stats](https://github-readme-stats.vercel.app/api?username=sheepy0125&show_icons=true&theme=radical)
